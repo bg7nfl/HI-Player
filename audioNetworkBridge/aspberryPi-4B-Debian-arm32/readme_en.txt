@@ -9,7 +9,7 @@ apt-get install libasound2-dev
 Method 1
 1. SSH transfers audioNetworkBridge all files to any directory in the System.
 2. Run 
-   chmod a+x./install.sh 
+   chmod a+x ./install.sh 
    on the terminal
 3. Run 
    ./install.sh 
